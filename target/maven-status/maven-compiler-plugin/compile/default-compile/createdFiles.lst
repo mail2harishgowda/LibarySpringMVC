@@ -1,0 +1,7 @@
+com\db\daoservice\BookDaoService.class
+com\controllers\BookController.class
+com\db\utility\HibernateUtility.class
+com\models\User.class
+com\controllers\LoginController.class
+com\models\Book.class
+com\service\BookService.class
